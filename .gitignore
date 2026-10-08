@@ -1,0 +1,10 @@
+# This repository hosts public release metadata and documentation.
+# Publish archives as GitHub Release assets.
+*.zip
+*.dll
+*.fbx
+*.blend
+bin/
+obj/
+.codex/
+Dev/Tools/
