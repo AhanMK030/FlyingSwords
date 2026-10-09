@@ -1,4 +1,8 @@
-# 飞剑 0.10.9
+# 飞剑 0.10.10
+
+0.10.10：加粗飞剑剑气主体，增加流动的多股纹理、破碎边缘、两道卷动侧翼与方向性碎光。保留各剑配色，干将·莫邪分冷暖双尾迹。已发布至GitHub，UMM可检查更新。
+
+0.10.10: broader veined wakes with animated texture flow, broken edges, curling side ribbons and directional fragments. Preserves each blade's palette. Available on GitHub with UMM updates.
 
 0.10.9：剑化分光与炁化万剑使用飞剑攻击的剑指姿态；敌人头顶的飞剑放大1.5倍。全部飞剑重新制作细亮芯、纹理剑气及柔光三层尾迹，并附带匹配游戏渲染的专用材质。详见 TrailDesign.md。
 
