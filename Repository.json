@@ -1,9 +1,9 @@
 {
   "Releases": [
     {
+      "Version": "0.10.9",
       "Id": "FlyingSwords",
-      "Version": "0.10.8",
-      "DownloadUrl": "https://github.com/AhanMK030/FlyingSwords/releases/download/v0.10.8/FlyingSwords-v0.10.8.zip"
+      "DownloadUrl": "https://github.com/AhanMK030/FlyingSwords/releases/download/v0.10.9/FlyingSwords-v0.10.9.zip"
     }
   ]
 }
