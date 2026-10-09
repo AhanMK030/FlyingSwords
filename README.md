@@ -1,4 +1,8 @@
-# 飞剑 0.10.8
+# 飞剑 0.10.9
+
+0.10.9：剑化分光与炁化万剑使用飞剑攻击的剑指姿态；敌人头顶的飞剑放大1.5倍。全部飞剑重新制作细亮芯、纹理剑气及柔光三层尾迹，并附带匹配游戏渲染的专用材质。详见 TrailDesign.md。
+
+0.10.9 gives both AoE sword techniques the ordinary sword-finger pose and enlarges their falling blades by 1.5×. All eleven sword models now use layered, textured trails with a bundled native-compatible shader. See TrailDesign.md.
 
 0.10.8：清除飞剑继承的弓箭挥击、命中及投射物声音。普通飞剑每次实际攻击只播放一次自定义音效，按角色独立交替，不依赖模型或动画能否创建；日志记录每次播放事件及Wwise播放ID。剑遁改为流光先到达，等待实际瞬移完成，再显现人物并落地；修复原版淡入流程提前显示人物的问题。
 
