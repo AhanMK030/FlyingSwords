@@ -1,4 +1,8 @@
-# 飞剑 0.10.7
+# 飞剑 0.10.8
+
+0.10.8：清除飞剑继承的弓箭挥击、命中及投射物声音。普通飞剑每次实际攻击只播放一次自定义音效，按角色独立交替，不依赖模型或动画能否创建；日志记录每次播放事件及Wwise播放ID。剑遁改为流光先到达，等待实际瞬移完成，再显现人物并落地；修复原版淡入流程提前显示人物的问题。
+
+0.10.8 removes inherited bow animation, impact and projectile audio. Ordinary flying-sword attacks post exactly one alternating custom cue per actual attack, independently of visual creation; the log records the event and Wwise playing ID. Sword Escape now waits for the travelling sword to arrive and native teleport to complete before the body emerges and lands. Native fades cannot reveal the body early.
 
 0.10.7：剑域按当前飞剑攻击范围威胁敌人，每轮借机次数额外增加感知调整值，保留原有远程攻击规则。剑仙3级新增剑遁：1剑元、迅捷动作、瞬移30尺，本轮飞剑攻击＋2，附带0.30秒人剑合一流光动画与独立图标。神识先攻改为半剑仙等级＋感知调整值，察觉保持半等级。旧剑仙读档自动补齐剑遁。
 
