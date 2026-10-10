@@ -1,4 +1,24 @@
-# 飞剑 0.10.10
+# 飞剑 0.10.15
+
+0.10.15：补齐飞剑终势斩的执行前置：必须为破军之道且已学凝势斩，无限连斩还须已学破军终势。万化之道、旧存档残留剑技及原生专长入口不能绕过限制；保留普通近战终势斩与合格破军飞剑连斩。
+
+0.10.15 enforces flying-sword finish prerequisites at execution: Army-Breaking and Gathered-Force Finish, plus Endless Army-Breaking Finish for unlimited chaining. Myriad Transformations, stale saved techniques and native feat triggers cannot bypass this gate. Native melee finishes and qualified Army-Breaking chains remain unchanged.
+
+0.10.14：剑仙14级新增额外战斗专长。贯虹、蓄锋、天心剑意持续1轮并作用于所有飞剑攻击；天心剑意改为攻击骰双骰取高。原乘势精炼（超载精炼）改为剑气狂潮，保留原前置，以不同元素剑气触发原生元素狂潮的三轮标记及每神话阶层1d6神圣伤害。替换两枚图标，保留旧存档剑技标识。
+
+0.10.14 adds a bonus combat feat at sword sage level 14. Pierce the Rainbow, Stored Edge and Celestial Sword Insight now last 1 round for all flying sword attacks. Insight rolls attacks twice and takes the higher result. Sword Aura Barrage replaces Momentum Refinement with unchanged prerequisites and native Elemental Barrage marks and damage scaling. Two new icons are included; saved technique identities are preserved.
+
+0.10.13：修复第三章军需官沿用第二章缓存货表时缺少太阿、七星龙渊的问题。军需官按当前主线章节解锁商品，开店时补齐未购买的缺货商品；保留已购记录，不重复生成库存，也不会复制正在购买篮中的物品。独立DLC仍按自身货表进度解锁。
+
+0.10.13 restores missing act-3 swords when the quartermaster retains his act-2 cached stock. Stock follows the main campaign chapter and fills missing unpurchased items on opening the shop, preserving purchases and preventing duplicates or checkout-basket restocking. Standalone DLC progression remains table-based.
+
+0.10.12：补齐可重复选取“额外剑技”的固定资源标识，修复实际游戏选择列表中缺失的问题。旧存档无需重建角色；重启游戏后，在普通专长选择中选取。离线检查改用正式标识表，缺失、空值和重复标识将使检查失败。
+
+0.10.12 fixes the missing registered ID for repeatable Extra Sword Technique. Existing saves keep their characters and learned techniques; restart the game to access the feat in ordinary feat selections. Offline checks now use the shipped ID registry and reject missing, empty, or duplicate IDs.
+
+0.10.11：额外剑技可以重复选取，每次获得一项尚未学会的剑技；保留分支、等级和前置限制，兼容旧存档已获得的剑技。
+
+0.10.11: Extra Sword Technique can be taken multiple times, choosing one new eligible technique each time. Existing path, level and prerequisite requirements apply; previously learned techniques remain compatible.
 
 0.10.10：加粗飞剑剑气主体，增加流动的多股纹理、破碎边缘、两道卷动侧翼与方向性碎光。保留各剑配色，干将·莫邪分冷暖双尾迹。已发布至GitHub，UMM可检查更新。
 
